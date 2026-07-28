@@ -401,3 +401,8 @@ font-size:.9rem;
 
 }
 ```
+.home-link{
+display:block;
+text-decoration:none;
+color:inherit;
+}

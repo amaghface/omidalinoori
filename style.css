@@ -120,23 +120,16 @@ padding-bottom:70px;
 }
 
 .book-card{
-
-background:var(--card);
-
-border:1px solid var(--border);
-
-padding:28px;
-
 display:flex;
-
-flex-direction:row;
-
+flex-direction:row-reverse;
 align-items:center;
-
 justify-content:space-between;
-
-gap:34px;
-
+gap:48px;
+max-width:1200px;
+margin:0 auto 32px;
+padding:28px;
+border:1px solid #000;
+background:#fff;
 }
 
 .book-image{

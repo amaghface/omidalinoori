@@ -5,12 +5,12 @@
 
 :root{
 
---background:#f4f2ec;
---card:#ece7dd;
---text:#2f2f2f;
---muted:#666666;
---border:#cfc7b8;
---button:#d7d0c1;
+--background:#ffffff;
+--card:#ffffff;
+--text:#000000;
+--muted:#000000;
+--border:#000000;
+--button:#ffffff;
 
 --container:980px;
 
